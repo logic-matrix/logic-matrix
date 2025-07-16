@@ -1,5 +1,5 @@
 
-<h1  align="center" style="font-size: 2.2rem; color: #2c3e50;">Logicmatrix</h1>
+<h1 align="center" style="font-size: 2.2rem; color: #2c3e50;">Logicmatrix</h1>
 <p  align="center"><strong>Where innovation meets reliability.</strong></p>
 <p  align="center">We are a cutting-edge software company dedicated to transforming your digital vision into reality through
     our comprehensive suite of services.</p>
@@ -27,15 +27,15 @@
 </div>
 <div style="text-align: center; margin-top: 40px; font-size: 0.9rem; color: #666; padding-top: 20px; border-top: 1px solid #ddd">
 <div style="margin-bottom: 20px;">
-<p><strong>Email:</strong> <a href="mailto:admin@logicmatrix.tech"style="color: #1565c0; text-decoration: none ">admin@logicmatrix.tech</a></p>
-<p><strong>Website:</strong> <a href="https://logicmatrix.tech/" target="_blank"style="color: #1565c0; text-decoration: none">www.logicmatrix.dev</a></p>
-<p><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating
+<p align="center"><strong>Email:</strong> <a href="mailto:admin@logicmatrix.tech"style="color: #1565c0; text-decoration: none ">admin@logicmatrix.tech</a></p>
+<p align="center"><strong>Website:</strong> <a href="https://logicmatrix.tech/" target="_blank"style="color: #1565c0; text-decoration: none">www.logicmatrix.dev</a></p>
+<p align="center"><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating
             across multiple time zones</p>
 </div>
-<div style="font-style: italic; background: #f0f4c3; padding: 15px 20px; border-left: 4px solid #cddc39; margin-top: 30px;"> “Logicmatrix doesn’t just deliver software — we build long-term technology partnerships.”
+<div align="center" style="font-style: italic; background: #f0f4c3; padding: 15px 20px; border-left: 4px solid #cddc39; margin-top: 30px;"> “Logicmatrix doesn’t just deliver software — we build long-term technology partnerships.”
 </div>
 <div style="text-align: center; margin-top: 40px; font-size: 0.9rem; color: #666; padding-top: 20px; border-top: 1px solid #ddd;">
-<p>© 2025 Logicmatrix. All rights reserved.</p>
+<p align="center" >© 2025 Logicmatrix. All rights reserved.</p>
 </div>
 </div>
 </div>
