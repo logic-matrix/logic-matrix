@@ -1,5 +1,5 @@
 
-<h1  align="center" style="font-size: 2.2rem; margin-bottom: 10px; color: #2c3e50;">Logicmatrix</h1>
+<h1  align="center" style="font-size: 2.2rem; color: #2c3e50;">Logicmatrix</h1>
 <p  align="center"><strong>Where innovation meets reliability.</strong></p>
 <p  align="center">We are a cutting-edge software company dedicated to transforming your digital vision into reality through
     our comprehensive suite of services.</p>
