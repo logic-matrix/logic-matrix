@@ -1,4 +1,4 @@
-```html
+
 
 <body
     style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #fafafa; color: #333;">
@@ -65,4 +65,3 @@
         </div>
     </div>
 </body>
-```
