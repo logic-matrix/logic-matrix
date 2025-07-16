@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Logicmatrix</title>
-</head>
+
+
 <body
     style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #fafafa; color: #333;">
     <div style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
@@ -55,8 +50,7 @@
                         style="color: #1565c0; text-decoration: none;">admin@logicmatrix.tech</a></p>
                 <p><strong>Website:</strong> <a href="https://logicmatrix.tech/" target="_blank"
                         style="color: #1565c0; text-decoration: none;">www.logicmatrix.dev</a></p>
-                <p><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating
-                    across multiple time zones</p>
+                <p><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating across multiple time zones</p>
             </div>
 
             <div
@@ -71,4 +65,4 @@
         </div>
     </div>
 </body>
-</html>
+
