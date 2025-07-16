@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Logicmatrix</title>
-</head>
-
 <body
     style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #fafafa; color: #333;">
     <div style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
@@ -72,5 +63,3 @@
         </div>
     </div>
 </body>
-
-</html>
