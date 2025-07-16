@@ -34,7 +34,7 @@
 </div>
 <div align="center" style="font-style: italic; background: #f0f4c3; padding: 15px 20px; border-left: 4px solid #cddc39; margin-top: 30px;"> “Logicmatrix doesn’t just deliver software — we build long-term technology partnerships.”
 </div>
-<div style="text-align: center; margin-top: 40px; font-size: 0.9rem; color: #666; padding-top: 20px; border-top: 1px solid #ddd;">
+<h2style="font-size: 1.5rem; color: #2c3e50; margin-top: 40px; border-bottom: 1px solid #181616; padding-bottom:5px;"></h2>
 <p align="center" >© 2025 Logicmatrix. All rights reserved.</p>
 </div>
 </div>
