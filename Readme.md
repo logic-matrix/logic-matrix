@@ -1,5 +1,5 @@
-<body
-    style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #fafafa; color: #333;">
+
+
     <div style="max-width: 800px; margin: 40px auto; padding: 0 20px;">
 
         <div style="text-align: center; padding-bottom: 20px;">
@@ -62,4 +62,4 @@
             </div>
         </div>
     </div>
-</body>
+
