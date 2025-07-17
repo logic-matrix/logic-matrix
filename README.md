@@ -5,9 +5,11 @@
                 our comprehensive suite of services.</P>
  <h2 align="center"></h2>
 
-![Logicmatrix Logo](assets/image.png)
+![Logicmatrix Logo](assets/image1.png)
 
 <p align="center"><strong>Email:</strong> <a href="mailto:admin@logicmatrix.tech"style="color: #1565c0; text-decoration: none;">admin@logicmatrix.tech</a></p>
 <p align="center"><strong>Website:</strong> <a href="https://logicmatrix.tech/" target="_blank"
 style="color: #1565c0; text-decoration: none;">https://logicmatrix.tech</a></p>
 <p align="center"><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating  across multiple time zones</p>
+
+![Logicmatrix Logo](assets/image2.png)
