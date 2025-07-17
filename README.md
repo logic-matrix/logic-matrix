@@ -8,7 +8,7 @@
 <h2 align="center"></h2>
 
 <div align="center">
-  <img src="assets/image1.png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto;" />
+  <img src="assets/image1.png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </div>
 
 <p align="center"><strong>Email:</strong> <a href="mailto:admin@logicmatrix.tech" style="color: #1565c0; text-decoration: none;">admin@logicmatrix.tech</a></p>
@@ -16,5 +16,5 @@
 <p align="center"><strong>Location:</strong> 6037 Omega Ln. Manassas, Virginia 20112, USA | Global team, operating across multiple time zones</p>
 
 <div align="center">
-  <img src="assets/image2.png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto;" />
+  <img src="assets/image2.png" alt="Logicmatrix Logo" style="max-width: 100%; height: auto; border-radius: 12px;" />
 </div>
